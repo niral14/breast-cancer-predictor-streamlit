@@ -1,0 +1,58 @@
+.css-j5r0tf {
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: #7E99AB;
+  }
+  
+  .diagnosis {
+    color: #fff;
+    padding: 0.2em 0.5em;
+    border-radius: 0.5em;
+  }
+  
+  .diagnosis.benign {
+    background-color: #01DB4B
+  }
+  
+  .diagnosis.malicious {
+    background-color: #ff4b4b
+  }
+
+  .stSidebar {
+    background-color: #00001c !important;
+}
+
+.st-emotion-cache-1mw54nq h2 {
+   text-decoration:  white;
+   color: white;
+}
+.st-emotion-cache-fsammq{
+    color: white;
+}
+.st-emotion-cache-hpex6h{
+    color:white;
+}
+.st-emotion-cache-12fmjuu{
+    color: white;
+    background: rgb(0, 0, 0);
+}
+
+.st-emotion-cache-1r4qj8v {
+    color: white;
+    background: rgb(0, 0, 0);
+}
+.body.svg{
+    background-color: rgb(0, 0, 0);
+}
+.stColumn.st-emotion-cache-aajpza.eiemyj2{
+    background-color: rgb(69, 101, 124);
+    color: white;
+    border-radius: 12px; /* Rounded corners */
+    padding: 15px; /* Add space between the text and the column borders */
+    box-sizing: border-box; /* Ensure padding doesn't affect the column width */
+    margin: 10px 0; /* Optional: Add some space around the column */
+}
+.st-emotion-cache-15fru4 {
+    background: black;
+
+}
